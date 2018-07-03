@@ -1,1 +1,1 @@
-# odoo_sh_demo
+# Odoo sh platformu için açılan repository
